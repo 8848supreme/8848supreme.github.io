@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://8848supreme.github.io/"/>
-  <updated>2021-04-25T13:32:55.968Z</updated>
+  <updated>2021-04-25T14:35:37.397Z</updated>
   <id>https://8848supreme.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello-World</title>
+    <link href="https://8848supreme.github.io/hello-world/"/>
+    <id>https://8848supreme.github.io/hello-world/</id>
+    <published>2021-04-25T14:31:33.000Z</published>
+    <updated>2021-04-25T14:35:37.397Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Hello-World&quot;&gt;&lt;a href=&quot;#Hello-World&quot; class=&quot;headerlink&quot; title=&quot;Hello World&quot;&gt;&lt;/a&gt;Hello World&lt;/h1&gt;&lt;pre class=&quot;line-numbers
+        
+      
+    
+    </summary>
+    
+      <category term="�������" scheme="https://8848supreme.github.io/categories/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/"/>
+    
+    
+      <category term="�������" scheme="https://8848supreme.github.io/tags/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/"/>
+    
+  </entry>
   
   <entry>
     <title>Post Blogs With Hexo</title>
